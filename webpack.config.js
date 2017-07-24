@@ -33,7 +33,7 @@ module.exports = {
         hot:false,
         historyApiFallback: true,
         contentBase: './',
-        host:'shekhar',
+        host:'twitter',
         port:8080,
     }
 };
